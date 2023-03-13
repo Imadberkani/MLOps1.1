@@ -4,12 +4,12 @@ This repository provides practical guidelines and best practices for implementin
 
 ## 📁 Repository Structure
 
-<b> Design </b>: design principles and methodologies for developing machine learning models
-Data: guidelines for data collection, preprocessing, and augmentation
-Model: best practices for model development, training, and optimization
-Development: tools and frameworks for building and testing machine learning solutions
-Deployment: strategies for deploying, monitoring, and scaling machine learning models in production
-Testing: techniques for evaluating, validating, and testing machine learning models
-Reproducibility: methods for ensuring reproducibility and transparency in your machine learning workflows
-Production: guidelines for maintaining and updating machine learning models in production
+<b>Design</b>: design principles and methodologies for developing machine learning models
+<b>Data</b>: guidelines for data collection, preprocessing, and augmentation
+<b>Model</b>: best practices for model development, training, and optimization
+<b>Development</b>: tools and frameworks for building and testing machine learning solutions
+<b>Deployment</b>: strategies for deploying, monitoring, and scaling machine learning models in production
+<b>Testing</b>: techniques for evaluating, validating, and testing machine learning models
+<b>Reproducibility</b>: methods for ensuring reproducibility and transparency in your machine learning workflows
+<b>Production</b>: guidelines for maintaining and updating machine learning models in production
 
