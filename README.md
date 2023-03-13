@@ -4,7 +4,7 @@ This repository provides practical guidelines and best practices for implementin
 
 ## 📁 Repository Structure
 
-<b>Design</b>: design principles and methodologies for developing machine learning models
+<b>Design</b>: design principles and methodologies for developing machine learning models\\
 <b>Data</b>: guidelines for data collection, preprocessing, and augmentation
 <b>Model</b>: best practices for model development, training, and optimization
 <b>Development</b>: tools and frameworks for building and testing machine learning solutions
