@@ -1,11 +1,6 @@
 # 🚀 MLOps Best Practices for Machine Learning Projects
 
-This repository provides practical guidelines and best practices for implementing MLOps principles in your machine learning project. Inspired by the work of @misc{madewithml,
-    author       = {Goku Mohandas},
-    title        = {MLOps Course - Made With ML},
-    howpublished = {\url{https://madewithml.com/}},
-    year         = {2022}
-} on MLOps best practices, we apply these principles to a specific use case of scoring tabular data. From 🎨 design and 📊 data to 🤖 model development, 🚀 deployment, 🧪 testing, ♻️ reproducibility, and 🏭 production, we cover all aspects of MLOps to help you build and maintain effective and scalable machine learning solutions.
+This repository provides practical guidelines and best practices for implementing MLOps principles in your machine learning project. Inspired by the work of @misc{madewithml,author= {Goku Mohandas},title = {MLOps Course - Made With ML},howpublished = {\url{https://madewithml.com/}},year ={2022}} on MLOps best practices, we apply these principles to a specific use case of scoring tabular data. From 🎨 design and 📊 data to 🤖 model development, 🚀 deployment, 🧪 testing, ♻️ reproducibility, and 🏭 production, we cover all aspects of MLOps to help you build and maintain effective and scalable machine learning solutions.
 
 ## 📁 Repository Structure
 
