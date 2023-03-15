@@ -16,7 +16,7 @@ This repository provides practical guidelines and best practices for implementin
 
 <b>Testing</b>: techniques for evaluating, validating, and testing machine learning models
 
-<b>Reproducibility</b>: methods for ensuring reproducibility and transparency in your machine learning workflows
+<b>Reproducibility</b>: methods for ensuring reproducibility and transparency in a machine learning workflows
 
 <b>Production</b>: guidelines for maintaining and updating machine learning models in production
 
